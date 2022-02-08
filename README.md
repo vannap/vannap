@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vannap
-- 👀 I’m interested in learning, building and creating fun projects
+- 👀 I’m interested in learning new languages and building projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ vannasack.phonesavanh@gmail.com
